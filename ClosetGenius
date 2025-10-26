@@ -1,0 +1,2 @@
+npm install -g @ionic/cli @capacitor/assetsgit clone https://github.com/c90watson-arch/closet-genius-y9iv8j.git closet-genius-y9iv8j
+cd closet-genius-y9iv8j && npm install && ionic serve
